@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ac26706.css",
+    "main.js": "/static/js/main.4b4ced3d.js",
+    "static/media/Programmer.gif": "/static/media/Programmer.76899ce816af5c4e54ba.gif",
+    "static/media/me1.png": "/static/media/me1.44aa773bef950d240629.png",
+    "static/media/PizzaApp.png": "/static/media/PizzaApp.04f1a867bbfa37435776.png",
+    "static/media/TwitterClone.png": "/static/media/TwitterClone.7374e8d0815749d659ca.png",
+    "static/media/CV.pdf": "/static/media/CV.de68c25785c1885765be.pdf",
+    "static/media/OneClick.jpg": "/static/media/OneClick.870c95515cbbd701a9a4.jpg",
+    "static/media/WeatherApp.png": "/static/media/WeatherApp.89e5e1e17cf497f8b9e7.png",
+    "static/media/SimpleCalculator.png": "/static/media/SimpleCalculator.6ea5ef611b358093fd80.png",
+    "static/media/TicTacToeGame.jpg": "/static/media/TicTacToeGame.9dcf74cbe759e820ba7d.jpg",
+    "static/media/SimpleTodolistApplication.jpg": "/static/media/SimpleTodolistApplication.aaa831114bae9655032c.jpg",
+    "index.html": "/index.html",
+    "main.2ac26706.css.map": "/static/css/main.2ac26706.css.map",
+    "main.4b4ced3d.js.map": "/static/js/main.4b4ced3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ac26706.css",
+    "static/js/main.4b4ced3d.js"
+  ]
+}
